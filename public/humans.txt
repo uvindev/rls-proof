@@ -1,0 +1,9 @@
+/* TEAM */
+  Engineer: Uvin Vindula (IAMUVIN)
+  Site: https://iamuvin.com
+  Location: Sri Lanka
+
+/* SITE */
+  Standards: HTML5, TypeScript, Tailwind CSS v4
+  Components: Next.js 15, Zod
+  Built: 2026
