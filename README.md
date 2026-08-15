@@ -4,6 +4,8 @@ RLS Proof reviews a Supabase SQL migration before merge. It inventories exposed 
 
 The product is for Supabase developers and implementation agencies that review migrations every week. The free workbench handles one pasted migration. No customer, completed payment, or revenue has been verified.
 
+![RLS Proof on load: the pre-merge review screen for a Supabase migration](docs/screenshot.png)
+
 ## Local setup
 
 Requirements: Node.js 20.9 or later and pnpm 11.
