@@ -2,7 +2,7 @@
 
 RLS Proof reviews a Supabase SQL migration before merge. It inventories exposed tables, grants, policies, and security-definer functions; reports six concrete static hazards with source lines and repairs; then generates a pgTAP policy-name test. SQL stays in browser memory and is never sent to an ingestion endpoint.
 
-The product is for Supabase developers and implementation agencies that review migrations every week. The free workbench handles one pasted migration. A proposed Team tier adds repository batch scans, pull-request annotations, reviewed exceptions, and policy history at `[TARGET]` $19 per team/month. No customer, completed payment, or revenue has been verified.
+The product is for Supabase developers and implementation agencies that review migrations every week. The free workbench handles one pasted migration. No customer, completed payment, or revenue has been verified.
 
 ## Local setup
 
